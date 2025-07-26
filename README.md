@@ -27,7 +27,7 @@ docker compose up -d --build
 ### Available Endpints ### 
 
 ##### wallet Creation #####
-- POST| http://localhost:8080/wallets
+- POST | http://localhost:8080/wallets
 - Required body:
   ``` Json
   {
@@ -43,7 +43,7 @@ docker compose up -d --build
 >At the end of this file, a series of fake CPFs and CNPJs will be made available, but they are approved for testing.
 
 #### Transfer Between Wallets ####
-- POST| http://localhost:8080/transfers
+- POST | http://localhost:8080/transfers
 - Required Body
 ``` Json
 {
