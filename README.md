@@ -15,6 +15,8 @@
 
 ### How to Use this API ###
 
+> Note: Make sure ports **8080** and **3306** are free on your machine before proceeding.
+
 1. Clone the repository:
 ```
  git clone https://github.com/Maik-Furtado/Wallets-Api.git
@@ -61,7 +63,7 @@ docker compose up -d --build
 - Simple error hanling and logging
 
 Swagger/OpenAPI documentation is available in the project.
-with the project started by docker access
+with the project started by docker. Access:
 
 http://localhost:8080/swagger-ui/index.html
 
