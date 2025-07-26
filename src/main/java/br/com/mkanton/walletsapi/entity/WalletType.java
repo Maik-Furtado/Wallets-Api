@@ -18,7 +18,6 @@ import java.util.Objects;
 public class WalletType {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "wallet_type_id")
     private Long id;
 
