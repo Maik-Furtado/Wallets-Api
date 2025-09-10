@@ -11,7 +11,7 @@
 + Maven 3.x
 + Docker and Docker Compose
 
-> Note: This API uses Eclipse Temuirn JDK 17.0.15
+> Note: This API uses Eclipse Temurin JDK 17.0.15
 
 ### How to Use this API ###
 
